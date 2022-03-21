@@ -29,9 +29,6 @@ THE SOFTWARE.
 @angular/common
 MIT
 
-@angular/compiler
-MIT
-
 @angular/core
 MIT
 
@@ -71,8 +68,6 @@ THE SOFTWARE.
 @angular/material/datepicker
 
 @angular/material/dialog
-
-@angular/material/form-field
 
 @angular/platform-browser
 MIT
